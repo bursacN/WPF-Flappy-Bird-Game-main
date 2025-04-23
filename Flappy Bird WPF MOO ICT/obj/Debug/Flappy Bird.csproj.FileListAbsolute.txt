@@ -1,0 +1,42 @@
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\bin\Debug\Flappy Bird WPF MOO ICT.exe.config
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\bin\Debug\Flappy Bird WPF MOO ICT.exe
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\bin\Debug\Flappy Bird WPF MOO ICT.pdb
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\MainWindow.g.cs
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\App.g.cs
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT_MarkupCompile.cache
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT_MarkupCompile.lref
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\MainWindow.baml
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT.g.resources
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy_Bird_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT.exe
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT.pdb
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\StartMenu.g.cs
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\StartMenu.baml
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\EndScreen.g.cs
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\EndScreen.baml
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\HighScores.g.cs
+C:\Users\bursa\Desktop\etf\nepolozeni\hci\WPF-Flappy-Bird-Game-main\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\HighScores.baml
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\bin\Debug\Flappy Bird WPF MOO ICT.exe.config
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\bin\Debug\Flappy Bird WPF MOO ICT.exe
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\bin\Debug\Flappy Bird WPF MOO ICT.pdb
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\EndScreen.g.cs
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\HighScores.g.cs
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\MainWindow.g.cs
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\StartMenu.g.cs
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\App.g.cs
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT_MarkupCompile.cache
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT_MarkupCompile.lref
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\EndScreen.baml
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\HighScores.baml
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\MainWindow.baml
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\StartMenu.baml
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT.g.resources
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy_Bird_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT.exe
+C:\Users\bursa\Desktop\New folder\WPF-Flappy-Bird-Game-main\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird WPF MOO ICT.pdb

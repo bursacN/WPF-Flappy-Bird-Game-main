@@ -1,0 +1,27 @@
+﻿<Window x:Class="Flappy_Bird_WPF_MOO_ICT.HighScores"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Flappy_Bird_WPF_MOO_ICT"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="SingleBorderWindow"
+        Title="Flappy Bird" Height="590" Width="625">
+    <Grid Background="#008793" Margin="0,0,0,-6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="311*"/>
+            <ColumnDefinition Width="314*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Name="highScoreListBox" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Margin="0,60,0,73" Grid.ColumnSpan="2" Background="#008793">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" FontWeight="Bold" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Label Content="HIGH SCORES" FontWeight="Bold" FontSize="25" HorizontalAlignment="Left" Margin="226,17,0,0" VerticalAlignment="Top" Width="172" Grid.ColumnSpan="2"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="250,512,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="124" Height="30" Click="Button_Click" FontWeight="Bold" FontSize="18"/>
+    </Grid>
+</Window>
